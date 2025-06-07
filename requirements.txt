@@ -1,0 +1,4 @@
+PyQt6>=6.0.0
+Pillow>=8.0.0
+imageio>=2.9.0
+# ftplib is part of the Python standard library 

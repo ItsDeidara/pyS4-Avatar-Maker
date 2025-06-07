@@ -1,0 +1,19 @@
+[x] Dark mode only PyQt GUI
+[x] Select and preview avatar image (PNG/JPG)
+[x] Export .xavatar (ZIP) with PNG and DDS sizes (440, 260, 128, 64)
+[x] Local and Offline Activated user types
+[x] DDS conversion via Python (Pillow + imageio)
+[x] Robust error handling and logging
+[x] Modular code: models, services, controllers, utils
+[x] Pytest tests
+[x] Ruff linting
+[~] Batch mode
+[x] Batch mode option to select a whole folder and scan it for PNG and jpg
+[x] File browser select for confuguring the output directory and a button to open said directory
+[~] FTP Mode (real time IP and port configuration with default 2121 port)
+[~] FTP needs an real time config option for the upload directory
+[ ] Success message box with summary of how many avatars where made, and transferd via FTP(if applicable)
+[x] GitHub Actions CI
+[x] Environment variable config
+[ ] Detailed docstrings and documentation 
+[x] run.py entrypoint 

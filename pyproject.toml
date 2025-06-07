@@ -1,0 +1,18 @@
+[project]
+name = "pys4_avatar_maker"
+version = "0.1.0"
+description = "Dark mode only PyQt-based PS4 Avatar Maker fork."
+authors = ["Your Name <your@email.com>"]
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.rye]
+dev-dependencies = [
+    "pytest",
+    "ruff"
+]
+
+[project.dependencies]
+PyQt6 = "*"
+Pillow = "*"
+imageio = "*" 

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+.venv
+.rye/
+build/
+dist/
+*.egg-info/
+*.xavatar
+*.dds
+*.png
+*.jpg
+*.jpeg 
