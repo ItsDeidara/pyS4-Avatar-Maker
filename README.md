@@ -1,6 +1,6 @@
 # pyS4 Avatar Maker
 
-A modern, dark-mode-only Python fork of the PS4-Xplorer Avatar Maker, built with PyQt.
+A modern, Python fork of the PS4-Xplorer Avatar Maker, built with PyQt.
 
 ## Features
 - Select and preview a PNG/JPG avatar image
